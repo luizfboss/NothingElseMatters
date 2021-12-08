@@ -58,13 +58,13 @@ section p{
 }
 
 #img01{
-    background-image: url('imagens/background001.jpg');
-    background-position: right center;
+    background-image: url('Image/background001.jpg');
+    background-position: left center;
     background-size: cover;
     background-attachment: fixed;
 }
 #img02{
-    background-image: url('imagens/background002.jpg');
+    background-image: url('Image/background002.jpg');
     background-position: right center;
     background-size: cover;
     background-attachment: fixed;
